@@ -1,0 +1,6 @@
+[
+  { "id": "p1", "name": "Laptop Stand", "price": 39.99, "category": "office" },
+  { "id": "p2", "name": "USB-C Hub", "price": 24.5, "category": "electronics" },
+  { "id": "p3", "name": "Notebook", "price": 5.25, "category": "office" },
+  { "id": "p4", "name": "Water Bottle", "price": 12, "category": "lifestyle" }
+]
